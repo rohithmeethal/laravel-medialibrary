@@ -56,4 +56,11 @@
       "Spatie\\MediaLibrary\\Test\\": "tests"
     }
   }
+  "extra": {
+      "laravel": {
+          "providers": [
+              "Spatie\\MediaLibrary\\MediaLibraryServiceProvider"
+          ]
+      }
+  }
 }
